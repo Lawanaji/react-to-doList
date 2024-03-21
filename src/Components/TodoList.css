@@ -1,0 +1,16 @@
+
+.input-btn{
+    display: inline-flex;
+    padding: 10px;
+    
+}
+
+input{
+    width: 100%;
+    outline: none;
+}
+
+li{
+    background: red;
+    gap: 10px;
+}
